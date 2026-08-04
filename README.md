@@ -1,4 +1,4 @@
-# 📋 Agenda
+# 📋 Agenda - Command-Line To-Do Manager
 
 A command-line task management application built with Python.
 
