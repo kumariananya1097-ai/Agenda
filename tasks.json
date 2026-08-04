@@ -1,0 +1,23 @@
+[
+    {
+        "task": "Buy groceries",
+        "done": true,
+        "priority": "high",
+        "due_date": "2026-08-15",
+        "note": null
+    },
+    {
+        "task": "Finish python",
+        "done": false,
+        "priority": "medium",
+        "due_date": null,
+        "note": null
+    },
+    {
+        "task": "watch movie",
+        "done": false,
+        "priority": "low",
+        "due_date": "2026-08-20",
+        "note": "with friends"
+    }
+]
